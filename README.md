@@ -1,1 +1,1 @@
-# web_scraping
+# Web scraping script
